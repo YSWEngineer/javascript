@@ -1,1 +1,1 @@
-# 💻dotoinstall　詳解JavaScript オブジェクト編
+# 💻dotoinstall 詳解JavaScript オブジェクト編
