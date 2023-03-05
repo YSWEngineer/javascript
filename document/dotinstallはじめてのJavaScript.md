@@ -1,1 +1,1 @@
-# 💻dotinstallはじめてのJavaScript
+# 💻dotinstall はじめてのJavaScript
